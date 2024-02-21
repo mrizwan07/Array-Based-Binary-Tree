@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\ArrayBinaryTree\BasicFundamental\main.cpp(58,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\ArrayBinaryTree\BasicFundamental\main.cpp(56,1): message : while compiling class template member function 'ArrayBinaryTree<char>::ArrayBinaryTree(int)'
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\ArrayBinaryTree\BasicFundamental\main.cpp(187,27): message : see reference to function template instantiation 'ArrayBinaryTree<char>::ArrayBinaryTree(int)' being compiled
+C:\Users\Rizwan\Desktop\Solutions\BinaryTree\ArrayBinaryTree\BasicFundamental\main.cpp(187,30): message : see reference to class template instantiation 'ArrayBinaryTree<char>' being compiled
+  BasicFundamental.vcxproj -> C:\Users\Rizwan\Desktop\Solutions\BinaryTree\ArrayBinaryTree\x64\Debug\BasicFundamental.exe
